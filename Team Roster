@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <link type="text/css" rel="stylesheet" href="stylesheet1.css" />
+     <title>FMHS Robotics Team List</title>
+ </head>
+ <a name="top">
+ </a>
+ <body>
+   <div id="header">
+	<div class="navbar">
+           <ul>
+	     <li><a href="TSAWebmasterContest (7).html">Home</a></li>
+	     <li><a href="TeamList.html">Team Rosters</a></li>
+	     <li><a href="FMHSRoboticsCalendar.html">FMHS Robotics Calendar</a></li>
+	     <li><a href="http://cte.unt.edu/stem/robotics-automation/">Club Website</a></li>
+         <li><a href="EWasteProject.html" />Renewable Solution to E-Waste</li>
+	   </ul>
+	</div>
+	</div>
+      <h1 style=font-family="Algerian; font-size: 40px"><p align="center">Team Rosters</p></h1>
+      <center>
+      <img src="http://jaguarpride.lisd.net/wp-content/uploads/2013/06/FMHS-Logo.png" />
+      </center>
+    <div id="p1">
+       <ul>
+	<li>2019<li>
+	   <ul>
+	      <li>John Kahn-Captain</li>
+	      <li>Ellis C.-Builder</li>
+	      <li>Ian McKain-Builder</li>
+	      <li>Eric Sullivan-Designer</li>
+	   </ul>
+        <li>2019B</li>
+	   <ul>
+	      <li>David Valezquez-Captain</li>
+	      <li>Kevin Burns-Technician</li>
+	      <li>Charles Guo-Builder</li>
+	      <li>Alex Han-Notebook</li>
+	      <li>Kevin Choi-Builder</li>	
+           </ul>
+	<li>2019C</li>
+	   <ul>
+	      <li>Sameer Walia-Captain</li>
+	      <li>Catherine Tang-Builder</li>
+	      <li>Revath Sankar-Builder</li>
+	      <li>Macy Prebel-Notebook</li>
+	      <li>Cole Costigan-Builder</li>
+	      <li>Kevin Li-Builder</li>
+	   </ul>
+	<li>2019D</li>
+	   <ul>
+	      <li>Riley-Captain</li>
+	      <li>Matthew Flightman-Builder</li>
+	   </ul>
+	<li>2019E</li>
+	   <ul>	
+	      <li>Hojae Jung-Captain/Designer</li>    
+              <li>Alvin Guo-Builder</li>
+	      <li>Rishab Goel-Builder</li>
+	      <li>Abel Kim-Builder</li>
+	      <li>Mary Park-Notebook</li>
+	      <li>Aman Dontula-Builder</li>
+	      <li>Bryan Lee-Builder</li>
+	   </ul>
+       </ul>
+    </div>
+   </div>    
+  </div>
+ </body>
+ <footer>
+ <center>
+  <p>Posted By: Revath Sankar, Ashwin Kudva, and Charles Guo</p>
+  <p>
+   Contact Us At:<a href="mailto:charlie.guo@outlook.com">charlie.guo@outlook.com
+   </a>
+  </p>
+ </center>
+ </footer>
+ <a href='#top'><p align="right">Back to Top</p>
+ </a>
+</html>
